@@ -26,3 +26,19 @@ This is a **WhatsApp Chat Analyzer** built using **Streamlit**. It allows users 
    ```sh
    git clone https://github.com/your-username/whatsapp-chat-analyzer.git
    cd whatsapp-chat-analyzer
+
+2. Install dependencies:
+
+   ```sh
+   pip install -r requirements.txt
+
+3. Run the application:
+
+   ```sh
+   streamlit run app.py
+
+## 📂 Usage
+- Export a WhatsApp Chat as a .txt file.
+- Upload the file using the sidebar.
+- Select a User (or Overall for group chats).
+- Click "Show Analysis" to generate insights.
