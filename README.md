@@ -49,6 +49,5 @@ This is a **WhatsApp Chat Analyzer** built using **Streamlit**. It allows users 
 
 ## 🌍 Live Demo  
 
-🔗 **Deployed Link:** [https://whatsapp-chat-analyzer-r1eh.onrender.com/](#)  
+🔗 **Deployed Link:** [WhatsApp Chat Analyzer Live](https://whatsapp-chat-analyzer-r1eh.onrender.com/)  
 
----
