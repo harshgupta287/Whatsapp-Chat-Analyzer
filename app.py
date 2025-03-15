@@ -35,7 +35,7 @@ if not show_analysis:
     st.markdown(
         """
         <div style="display: flex; justify-content: center;">
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/Bl7_qam9BYU" 
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/sTSbtl-jw0A" 
             frameborder="0" allowfullscreen></iframe>
         </div>
         """,
