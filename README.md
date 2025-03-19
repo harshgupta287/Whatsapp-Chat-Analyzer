@@ -52,9 +52,9 @@ This is a **WhatsApp Chat Analyzer** built using **Streamlit**. It allows users 
 🔗 **Deployed Link:** [WhatsApp Chat Analyzer Live](https://whatsapp-chat-analyzer-r1eh.onrender.com/)  
 
 ## Screenshots
-![Screenshot 1](./screenshorts/s1.png)
-![Screenshot 2](./screenshorts/s2.png)
-![Screenshot 1](./screenshorts/s3.png)
-![Screenshot 2](./screenshorts/s4.png)
-![Screenshot 1](./screenshorts/s5.png)
-![Screenshot 2](./screenshorts/s6.png)
+![Screenshot 1](./screenshorts/s1.jpg)
+![Screenshot 2](./screenshorts/s2.jpg)
+![Screenshot 1](./screenshorts/s3.jpg)
+![Screenshot 2](./screenshorts/s4.jpg)
+![Screenshot 1](./screenshorts/s5.jpg)
+![Screenshot 2](./screenshorts/s6.jpg)
