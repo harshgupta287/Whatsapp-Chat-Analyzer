@@ -54,7 +54,7 @@ This is a **WhatsApp Chat Analyzer** built using **Streamlit**. It allows users 
 ## Screenshots
 ![Screenshot 1](./screenshorts/s1.jpg)
 ![Screenshot 2](./screenshorts/s2.jpg)
-![Screenshot 1](./screenshorts/s3.jpg)
-![Screenshot 2](./screenshorts/s4.jpg)
-![Screenshot 1](./screenshorts/s5.jpg)
-![Screenshot 2](./screenshorts/s6.jpg)
+![Screenshot 3](./screenshorts/s3.jpg)
+![Screenshot 4](./screenshorts/s4.jpg)
+![Screenshot 5](./screenshorts/s5.jpg)
+![Screenshot 6](./screenshorts/s6.jpg)
